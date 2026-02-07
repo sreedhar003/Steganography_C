@@ -1,8 +1,8 @@
-🖼️ LSB Image Steganography using C
+**🖼️ LSB Image Steganography using C**
 
 A C-based implementation of Least Significant Bit (LSB) steganography to hide and extract secret data inside BMP image files using bitwise operations and file handling.
 
-🚀 Features
+**🚀 Features**
 
 - Encode secret text into BMP image
 
@@ -16,7 +16,7 @@ A C-based implementation of Least Significant Bit (LSB) steganography to hide an
 
 - Preserves original image header
 
-🧠 Working Principle
+**🧠 Working Principle**
 
 - Secret data is converted into binary form
 
@@ -26,7 +26,7 @@ A C-based implementation of Least Significant Bit (LSB) steganography to hide an
 
 - Image visually appears unchanged
 
-📝 Usage
+**📝 Usage**
 
 Encode
     
@@ -41,7 +41,7 @@ Decode
 
 
 
-📚 Concepts Used
+**📚 Concepts Used**
 
 - File I/O in C
 
